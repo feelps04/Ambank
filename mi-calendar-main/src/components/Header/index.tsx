@@ -1,5 +1,4 @@
-import { Hamburguer } from '@/components/Hamburguer'
-import { Logo } from '@/components/Logo'
+
 
 import { CreateEventButton } from './CreateEventButton'
 import HeaderDate from './Date'

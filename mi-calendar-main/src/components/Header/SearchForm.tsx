@@ -1,5 +1,4 @@
 import { useStateContext } from '@/context/StateContext'
-import { Search } from '@/Images/'
 
 export const SearchForm = () => {
   const { setSearch } = useStateContext()

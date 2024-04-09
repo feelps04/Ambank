@@ -3,7 +3,7 @@ import moment from 'moment'
 import { EventForm } from '@/components/EventForm'
 import { useStateContext } from '@/context/StateContext'
 import { IEvents } from '@/core/types'
-import { Clock } from '@/Images'
+
 
 export const EventCard = (event: IEvents) => {
   const { setModal } = useStateContext()
